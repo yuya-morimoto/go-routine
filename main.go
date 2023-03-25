@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.FanInOut()
+	pkg.HeartbeatWatch()
 }
