@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.Context()
+	pkg.ErrGroup()
 }
