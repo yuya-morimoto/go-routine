@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.ErrGroup()
+	pkg.Pipeline()
 }
