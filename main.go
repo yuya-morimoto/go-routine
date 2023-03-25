@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.ClosedChannel()
+	pkg.Continuous()
 }
