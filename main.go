@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.Mutex()
+	pkg.Context()
 }
