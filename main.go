@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.Pipeline()
+	pkg.FanInOut()
 }
