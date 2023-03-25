@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	pkg.Continuous()
+	pkg.Mutex()
 }
